@@ -30,7 +30,7 @@ Built for researchers, analysts, and data enthusiasts who want clean data withou
 ### 1. Clone the repository:
 
 ```bash
-git clone git clone https://github.com/404Health/universal-dataCleaner.git
+git clone https://github.com/404Health/universal-dataCleaner.git
 cd universal-dataCleaner
 ```
 
