@@ -44,7 +44,7 @@ pip install -r requirements.txt
 - `pandas`  
 - `numpy`  
 - `scipy`  
-- `openpyxl` *(for Excel file support)*
+- `openpyxl`
 
 ---
 
